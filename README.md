@@ -37,7 +37,7 @@ Each project is self-contained and includes:
 ```bash
 py -3.12 -m pip install -r requirements.txt
 
-Open notebooks in Jupyter or VS Code and select Python 3.12 as the kernel.```
+Open notebooks in Jupyter or VS Code and select Python 3.12 as the kernel.
 
 Notes
 
