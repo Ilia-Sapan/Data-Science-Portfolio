@@ -21,9 +21,8 @@ Each project is self-contained and includes:
 
 | #  | Project | Description | Tools |
 |----|--------|-------------|-------|
-| 01 | Coming soon | Exploratory analysis and baseline modeling | pandas, numpy |
-| 02 | Coming soon | Statistical analysis and hypothesis testing | scipy, stats |
-| 03 | Coming soon | Machine learning classification | scikit-learn |
+| 01 | COVID-19 Time Series (Düsseldorf) | EDA, lag analysis, baseline forecasting | pandas, numpy, matplotlib |
+
 
 ## Tech Stack
 
