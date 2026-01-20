@@ -23,6 +23,8 @@ Each project is self-contained and includes:
 |----|--------|-------------|-------|
 | 01 | COVID-19 Time Series (Düsseldorf) | EDA, lag analysis, baseline forecasting | pandas, numpy, matplotlib |
 | 02 | Gesundheitliche Infrastruktur (Dortmund) | EDA, Korrelationen, Standortverteilung | pandas, numpy, matplotlib, seaborn |
+| 03 | Accident Victims 2019-2024 | EDA, summary stats, forecast 2025-2026 | pandas, numpy, matplotlib |
+| 04 | Primary School Students by District (Dusseldorf) | EDA, distributions, shares | pandas, matplotlib |
 
 
 ## Tech Stack
