@@ -15,7 +15,7 @@ projects/
 05_wohnungswahl-duesseldorf/ # Housing choice project for Dusseldorf and surroundings
 
 Each project is self-contained and includes:
-- problem statement and goal
+- problem statement and goals
 - data sources and cleaning
 - analysis and modeling
 - insights and next steps
