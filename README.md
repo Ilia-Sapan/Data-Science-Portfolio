@@ -22,6 +22,7 @@ Each project is self-contained and includes:
 | #  | Project | Description | Tools |
 |----|--------|-------------|-------|
 | 01 | COVID-19 Time Series (Düsseldorf) | EDA, lag analysis, baseline forecasting | pandas, numpy, matplotlib |
+| 02 | Gesundheitliche Infrastruktur (Dortmund) | EDA, Korrelationen, Standortverteilung | pandas, numpy, matplotlib, seaborn |
 
 
 ## Tech Stack
