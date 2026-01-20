@@ -1,0 +1,66 @@
+{
+  "affordable_duesseldorf": [
+    {
+      "ortst": "Hellerhof",
+      "median_brw": 650.0
+    },
+    {
+      "ortst": "Derendorf",
+      "median_brw": 730.0
+    },
+    {
+      "ortst": "Garath",
+      "median_brw": 815.0
+    },
+    {
+      "ortst": "Lierenfeld",
+      "median_brw": 820.0
+    },
+    {
+      "ortst": "Lohausen",
+      "median_brw": 820.0
+    }
+  ],
+  "affordable_surroundings": [
+    {
+      "gena": "Dormagen",
+      "median_brw": 400.0
+    },
+    {
+      "gena": "Erkrath",
+      "median_brw": 480.0
+    },
+    {
+      "gena": "Mettmann",
+      "median_brw": 520.0
+    },
+    {
+      "gena": "Kaarst",
+      "median_brw": 525.0
+    },
+    {
+      "gena": "Monheim am Rhein",
+      "median_brw": 560.0
+    }
+  ],
+  "crime_forecast": [
+    {
+      "year": 2025,
+      "value": 81570.0
+    },
+    {
+      "year": 2026,
+      "value": 84444.0
+    }
+  ],
+  "housing_backlog_forecast": [
+    {
+      "year": 2024,
+      "value": 10399.388888888992
+    },
+    {
+      "year": 2025,
+      "value": 11002.288888889132
+    }
+  ]
+}
