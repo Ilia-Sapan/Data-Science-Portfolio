@@ -13,6 +13,7 @@ projects/
 03_covid-19 in Dusseldorf/ # COVID-19 time series
 04_grundschule_stadtteile/ # Primary school students by district
 05_wohnungswahl-duesseldorf/ # Housing choice project for Dusseldorf and surroundings
+06_klimasensoren_mikroklima/ # Dortmund microclimate sensors, anomalies, trust score
 
 Each project is self-contained and includes:
 - problem statement and goals
@@ -29,6 +30,7 @@ Each project is self-contained and includes:
 | 03 | COVID-19 in Dusseldorf | Time series EDA, lag analysis, baseline forecasting | pandas, numpy, matplotlib |
 | 04 | Grundschule Stadtteile | Primary school students by district, distributions, shares | pandas, matplotlib |
 | 05 | Wohnungswahl Dusseldorf | Housing affordability + crime trends + nationality structure, BORIS NRW | pandas, numpy, matplotlib, seaborn, requests |
+| 06 | Klimasensoren Mikroklima | Dortmund microclimate, land-use proxy, anomalies, sensor trust score | pandas, numpy, matplotlib, seaborn |
 
 ## Tech Stack
 
