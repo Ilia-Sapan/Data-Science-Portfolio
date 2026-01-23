@@ -1,0 +1,3 @@
+RandomForestRegressor
+MAE: 0.0069
+R2: 0.9925

@@ -14,6 +14,7 @@ projects/
 04_grundschule_stadtteile/ # Primary school students by district
 05_wohnungswahl-duesseldorf/ # Housing choice project for Dusseldorf and surroundings
 06_klimasensoren_mikroklima/ # Dortmund microclimate sensors, anomalies, trust score
+07_migration_integration_duesseldorf/ # Migration share and integration services in Dusseldorf
 
 Each project is self-contained and includes:
 - problem statement and goals
@@ -31,6 +32,7 @@ Each project is self-contained and includes:
 | 04 | Grundschule Stadtteile | Primary school students by district, distributions, shares | pandas, matplotlib |
 | 05 | Wohnungswahl Dusseldorf | Housing affordability + crime trends + nationality structure, BORIS NRW | pandas, numpy, matplotlib, seaborn, requests |
 | 06 | Klimasensoren Mikroklima | Dortmund microclimate, land-use proxy, anomalies, sensor trust score | pandas, numpy, matplotlib, seaborn |
+| 07 | Migration & Integration Dusseldorf | Migration share trends + integration services, SHAP explainability | pandas, numpy, matplotlib, seaborn, plotly, folium, scikit-learn, shap |
 
 ## Tech Stack
 
